@@ -61,14 +61,10 @@ target_name/
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/PPeter2/Bug-Bounty-Hunt-Tool.git
    ```
 
 2. Navigate into the directory:
-   ```bash
-   cd bughunt-create
-   ```
-
 3. Grant execution permissions to the script:
    ```bash
    chmod +x bughunt-create.sh
@@ -90,7 +86,7 @@ Run the script by providing the name of the project or target organization as an
 
 ### Help Menu
 
-To view the usage instructions at any time, run:
+To view the usage instructions at any time, run (Currently not available):
 
 ```bash
 ./bughunt-create.sh -h
